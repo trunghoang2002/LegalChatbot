@@ -1,4 +1,4 @@
-from server_stream import app
+from backend.main import app
 
 # for linux
 if __name__ == "__main__":

@@ -27,12 +27,12 @@ USER appuser
 EXPOSE 5000
 
 # Set environment variables
-ENV FLASK_APP=server_stream.py
+ENV FLASK_APP=main.py
 ENV FLASK_ENV=production
 ENV PYTHONUNBUFFERED=1
 
 # Command to run the application
-# CMD ["python", "server_stream.py"] 
+# CMD ["python", "main.py"] 
 
 # Command to run the application with Gunicorn
 # CMD ["gunicorn", "--bind", "0.0.0.0:5000", "--workers", "4", "--timeout", "120", "wsgi:app"] 

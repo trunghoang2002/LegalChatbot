@@ -98,6 +98,10 @@ $RECYCLE.BIN/
 legal_corpus.json
 
 *.zip
+*.tar
 
 output*/
 docker-compose-deploy.yaml
+embedding/
+backend_dev/
+frontend_dev/
