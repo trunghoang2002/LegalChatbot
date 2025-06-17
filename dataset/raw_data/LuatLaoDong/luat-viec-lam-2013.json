@@ -1,0 +1,2064 @@
+{
+    "law_name": "LUẬT VIỆC LÀM",
+    "metadata": {
+        "tieu_de": "Luật việc làm 2013",
+        "so_hieu": "38/2013/QH13",
+        "ngay_ban_hanh": "16/11/2013",
+        "nguoi_ky": "Nguyễn Sinh Hùng",
+        "so_cong_bao": "Từ số 1003 đến số 1004",
+        "tinh_trang_hieu_luc": "Còn hiệu lực",
+        "loai_van_ban": "Luật",
+        "noi_ban_hanh": "Quốc hội",
+        "ngay_cong_bao": "Đang cập nhật",
+        "ngay_hieu_luc": "01/01/2015"
+    },
+    "chapters": [
+        {
+            "type": "chapter",
+            "index": "1",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "articles": [
+                {
+                    "type": "article",
+                    "index": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "items": [
+                        {
+                            "type": "text",
+                            "content": "Luật này quy định chính sách hỗ trợ tạo việc làm; thông tin thị trường lao động; đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; tổ chức, hoạt động dịch vụ việc làm; bảo hiểm thất nghiệp và quản lý nhà nước về việc làm."
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "2",
+                    "title": "Đối tượng áp dụng",
+                    "items": [
+                        {
+                            "type": "text",
+                            "content": "Luật này áp dụng đối với người lao động, người sử dụng lao động và cơ quan, tổ chức, cá nhân khác có liên quan đến việc làm."
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "3",
+                    "title": "Giải thích từ ngữ",
+                    "items": [
+                        {
+                            "type": "text",
+                            "content": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+                        },
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Người lao động là công dân Việt Nam từ đủ 15 tuổi trở lên, có khả năng lao động và có nhu cầu làm việc.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Việc làm là hoạt động lao động tạo ra thu nhập mà không bị pháp luật cấm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Tiêu chuẩn kỹ năng nghề quốc gia là quy định về kiến thức chuyên môn, năng lực thực hành và khả năng ứng dụng kiến thức, năng lực đó vào công việc mà người lao động cần phải có để thực hiện công việc theo từng bậc trình độ kỹ năng của từng nghề.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "4",
+                            "content": "Bảo hiểm thất nghiệp là chế độ nhằm bù đắp một phần thu nhập của người lao động khi bị mất việc làm, hỗ trợ người lao động học nghề, duy trì việc làm, tìm việc làm trên cơ sở đóng vào Quỹ bảo hiểm thất nghiệp.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "5",
+                            "content": "Việc làm công là việc làm tạm thời có trả công được tạo ra thông qua việc thực hiện các dự án hoặc hoạt động sử dụng vốn nhà nước gắn với các chương trình phát triển kinh tế - xã hội trên địa bàn xã, phường, thị trấn (sau đây gọi chung là cấp xã).",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "4",
+                    "title": "Nguyên tắc về việc làm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Bảo đảm quyền làm việc, tự do lựa chọn việc làm và nơi làm việc.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Bình đẳng về cơ hội việc làm và thu nhập.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Bảo đảm làm việc trong điều kiện an toàn lao động, vệ sinh lao động.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "5",
+                    "title": "Chính sách của Nhà nước về việc làm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Có chính sách phát triển kinh tế - xã hội nhằm tạo việc làm cho người lao động, xác định mục tiêu giải quyết việc làm trong chiến lược, kế hoạch phát triển kinh tế - xã hội; bố trí nguồn lực để thực hiện chính sách về việc làm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Khuyến khích tổ chức, cá nhân tham gia tạo việc làm và tự tạo việc làm có thu nhập từ mức lương tối thiểu trở lên nhằm góp phần phát triển kinh tế - xã hội, phát triển thị trường lao động.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Có chính sách hỗ trợ tạo việc làm, phát triển thị trường lao động và bảo hiểm thất nghiệp.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "4",
+                            "content": "Có chính sách đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia gắn với việc nâng cao trình độ kỹ năng nghề.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "5",
+                            "content": "Có chính sách ưu đãi đối với ngành, nghề sử dụng lao động có trình độ chuyên môn kỹ thuật cao hoặc sử dụng nhiều lao động phù hợp với điều kiện phát triển kinh tế - xã hội.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "6",
+                            "content": "Hỗ trợ người sử dụng lao động sử dụng nhiều lao động là người khuyết tật, lao động nữ, lao động là người dân tộc thiểu số.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "6",
+                    "title": "Nội dung quản lý nhà nước về việc làm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về việc làm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Tuyên truyền, phổ biến và giáo dục pháp luật về việc làm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Quản lý lao động, thông tin thị trường lao động, đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia và bảo hiểm thất nghiệp.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "4",
+                            "content": "Quản lý tổ chức và hoạt động của trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "5",
+                            "content": "Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về việc làm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "6",
+                            "content": "Hợp tác quốc tế về việc làm.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "7",
+                    "title": "Thẩm quyền quản lý nhà nước về việc làm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Chính phủ thống nhất quản lý nhà nước về việc làm trong phạm vi cả nước.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Bộ Lao động - Thương binh và Xã hội chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về việc làm. Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Lao động - Thương binh và Xã hội thực hiện quản lý nhà nước về việc làm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về việc làm tại địa phương.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "8",
+                    "title": "Trách nhiệm của cơ quan, tổ chức và cá nhân về việc làm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong phạm vi chức năng, nhiệm vụ của mình có trách nhiệm tuyên truyền, vận động cơ quan, doanh nghiệp, đơn vị, tổ chức và cá nhân tạo việc làm cho người lao động; tham gia với cơ quan nhà nước trong việc xây dựng và giám sát việc thực hiện chính sách, pháp luật về việc làm theo quy định của pháp luật.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, phổ biến chính sách, pháp luật về việc làm; tạo việc làm; bảo vệ quyền và lợi ích hợp pháp của người lao động, người sử dụng lao động theo quy định của pháp luật.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Cá nhân có trách nhiệm chủ động tìm kiếm việc làm và tham gia tạo việc làm.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "9",
+                    "title": "Những hành vi bị nghiêm cấm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Phân biệt đối xử trong việc làm và nghề nghiệp.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Xâm phạm thân thể, danh dự, nhân phẩm, tài sản, quyền, lợi ích hợp pháp của người lao động, người sử dụng lao động.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Tuyển dụng, sử dụng người lao động vào làm việc trái quy định của pháp luật.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "4",
+                            "content": "Dụ dỗ, hứa hẹn và quảng cáo gian dối để lừa gạt người lao động hoặc lợi dụng dịch vụ việc làm, thông tin thị trường lao động để thực hiện những hành vi trái pháp luật.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "5",
+                            "content": "Gian lận, giả mạo hồ sơ trong việc thực hiện chính sách về việc làm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "6",
+                            "content": "Cản trở, gây khó khăn hoặc làm thiệt hại đến quyền và lợi ích hợp pháp của người lao động, người sử dụng lao động.",
+                            "subitems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "chapter",
+            "index": "2",
+            "title": "CHÍNH SÁCH HỖ TRỢ TẠO VIỆC LÀM",
+            "sections": [
+                {
+                    "type": "section",
+                    "index": "1",
+                    "title": "CHÍNH SÁCH TÍN DỤNG ƯU ĐÃI TẠO VIỆC LÀM",
+                    "articles": [
+                        {
+                            "type": "article",
+                            "index": "10",
+                            "title": "Tín dụng ưu đãi tạo việc làm",
+                            "items": [
+                                {
+                                    "type": "text",
+                                    "content": "Nhà nước thực hiện chính sách tín dụng ưu đãi để hỗ trợ tạo việc làm, duy trì và mở rộng việc làm từ Quỹ quốc gia về việc làm và các nguồn tín dụng khác."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "11",
+                            "title": "Quỹ quốc gia về việc làm",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Nguồn hình thành Quỹ quốc gia về việc làm bao gồm:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Ngân sách nhà nước;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Nguồn hỗ trợ của tổ chức, cá nhân trong và ngoài nước;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Các nguồn hợp pháp khác."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Việc quản lý, sử dụng Quỹ quốc gia về việc làm theo quy định của pháp luật.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "12",
+                            "title": "Đối tượng vay vốn từ Quỹ quốc gia về việc làm",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Đối tượng được vay vốn từ Quỹ quốc gia về việc làm bao gồm:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Người lao động."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Đối tượng quy định tại khoản 1 Điều này thuộc các trường hợp sau đây được vay vốn từ Quỹ quốc gia về việc làm với mức lãi suất thấp hơn:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh sử dụng nhiều lao động là người khuyết tật, người dân tộc thiểu số;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Người dân tộc thiểu số đang sinh sống tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, người khuyết tật."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "13",
+                            "title": "Điều kiện vay vốn",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Đối tượng quy định tại điểm a khoản 1 Điều 12 của Luật này được vay vốn từ Quỹ quốc gia về việc làm khi có đủ các điều kiện sau đây:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Có dự án vay vốn khả thi tại địa phương, phù hợp với ngành, nghề sản xuất kinh doanh, thu hút thêm lao động vào làm việc ổn định;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Dự án vay vốn có xác nhận của cơ quan, tổ chức có thẩm quyền nơi thực hiện dự án;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Có bảo đảm tiền vay."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Đối tượng quy định tại điểm b khoản 1 Điều 12 của Luật này được vay vốn từ Quỹ quốc gia về việc làm khi có đủ các điều kiện sau đây:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Có năng lực hành vi dân sự đầy đủ;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Có nhu cầu vay vốn để tự tạo việc làm hoặc thu hút thêm lao động có xác nhận của cơ quan, tổ chức có thẩm quyền nơi thực hiện dự án;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Cư trú hợp pháp tại địa phương nơi thực hiện dự án."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Chính phủ quy định mức vay, thời hạn, lãi suất cho vay, trình tự, thủ tục vay vốn và điều kiện bảo đảm tiền vay.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "14",
+                            "title": "Cho vay ưu đãi từ các nguồn tín dụng khác để hỗ trợ tạo việc làm",
+                            "items": [
+                                {
+                                    "type": "text",
+                                    "content": "Căn cứ điều kiện kinh tế - xã hội trong từng thời kỳ, Nhà nước sử dụng các nguồn tín dụng khác để cho vay ưu đãi nhằm thực hiện các chính sách gián tiếp hỗ trợ tạo việc làm."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "index": "2",
+                    "title": "CHÍNH SÁCH HỖ TRỢ CHUYỂN DỊCH VIỆC LÀM ĐỐI VỚI NGƯỜI LAO ĐỘNG Ở KHU VỰC NÔNG THÔN",
+                    "articles": [
+                        {
+                            "type": "article",
+                            "index": "15",
+                            "title": "Hỗ trợ chuyển đổi nghề nghiệp, việc làm cho người lao động ở khu vực nông thôn",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Căn cứ chiến lược, kế hoạch phát triển kinh tế - xã hội, Nhà nước hỗ trợ chuyển đổi nghề nghiệp, việc làm cho người lao động ở khu vực nông thôn.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Người lao động ở khu vực nông thôn tham gia chuyển đổi nghề nghiệp, việc làm được hưởng các chế độ sau đây:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Hỗ trợ học nghề;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Tư vấn miễn phí về chính sách, pháp luật về lao động, việc làm, học nghề;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Giới thiệu việc làm miễn phí; Vay vốn từ Quỹ quốc gia về việc làm theo quy định tại các điều 11, 12 và 13 của Luật này."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "16",
+                            "title": "Hỗ trợ học nghề cho người lao động ở khu vực nông thôn",
+                            "items": [
+                                {
+                                    "type": "text",
+                                    "content": "Người lao động ở khu vực nông thôn học nghề dưới 03 tháng hoặc học nghề trình độ sơ cấp ở cơ sở đào tạo nghề được hỗ trợ chi phí học nghề theo quy định của Thủ tướng Chính phủ."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "17",
+                            "title": "Hỗ trợ doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh tạo việc làm cho người lao động ở khu vực nông thôn",
+                            "items": [
+                                {
+                                    "type": "text",
+                                    "content": "Doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh được Nhà nước hỗ trợ để phát triển sản xuất, kinh doanh, mở rộng việc làm tại chỗ cho người lao động ở khu vực nông thôn thông qua các hoạt động sau đây:"
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Vay vốn từ Quỹ quốc gia về việc làm theo quy định tại các điều 11, 12 và 13 của Luật này;",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Hỗ trợ cung cấp thông tin về thị trường tiêu thụ sản phẩm;",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Miễn, giảm thuế theo quy định của pháp luật về thuế.",
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "index": "3",
+                    "title": "CHÍNH SÁCH VIỆC LÀM CÔNG",
+                    "articles": [
+                        {
+                            "type": "article",
+                            "index": "18",
+                            "title": "Nội dung chính sách việc làm công",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Chính sách việc làm công được thực hiện thông qua các dự án hoặc hoạt động sử dụng vốn nhà nước gắn với các chương trình phát triển kinh tế - xã hội trên địa bàn cấp xã, bao gồm:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Xây dựng cơ sở hạ tầng phục vụ sản xuất nông nghiệp, lâm nghiệp, ngư nghiệp và diêm nghiệp;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Xây dựng cơ sở hạ tầng công cộng;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Bảo vệ môi trường;"
+                                        },
+                                        {
+                                            "index": "d",
+                                            "content": "Ứng phó với biến đổi khí hậu;"
+                                        },
+                                        {
+                                            "index": "đ",
+                                            "content": "Các dự án, hoạt động khác phục vụ cộng đồng tại địa phương."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Các dự án, hoạt động quy định tại khoản 1 Điều này khi thực hiện lựa chọn nhà thầu theo quy định của pháp luật về đấu thầu, trong hồ sơ mời thầu hoặc hồ sơ yêu cầu phải quy định nhà thầu tham dự thầu đề xuất phương án sử dụng lao động thuộc đối tượng quy định tại khoản 1 Điều 19 của Luật này.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Chính phủ quy định chi tiết việc tổ chức thực hiện chính sách việc làm công.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "19",
+                            "title": "Đối tượng tham gia",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Người lao động được tham gia chính sách việc làm công khi có đủ các điều kiện sau đây:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Cư trú hợp pháp tại địa phương nơi thực hiện dự án, hoạt động;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Tự nguyện tham gia chính sách việc làm công."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Người lao động quy định tại khoản 1 Điều này là người dân tộc thiểu số; người thuộc hộ nghèo, hộ cận nghèo hoặc hộ bị thu hồi đất nông nghiệp; người chưa có việc làm hoặc thiếu việc làm được ưu tiên tham gia chính sách việc làm công.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Khuyến khích tổ chức, cá nhân sử dụng người lao động quy định tại khoản 1 Điều này khi thực hiện dự án, hoạt động không thuộc quy định tại khoản 1 Điều 18 của Luật này.",
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "index": "4",
+                    "title": "CÁC CHÍNH SÁCH HỖ TRỢ KHÁC",
+                    "articles": [
+                        {
+                            "type": "article",
+                            "index": "20",
+                            "title": "Hỗ trợ đưa người lao động đi làm việc ở nước ngoài theo hợp đồng",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Nhà nước khuyến khích, tạo điều kiện cho người lao động có nhu cầu và khả năng đi làm việc ở nước ngoài theo hợp đồng.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Người lao động là người dân tộc thiểu số; người thuộc hộ nghèo, hộ cận nghèo hoặc hộ bị thu hồi đất nông nghiệp; thân nhân của người có công với cách mạng có nhu cầu đi làm việc ở nước ngoài theo hợp đồng được Nhà nước hỗ trợ:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Học nghề, ngoại ngữ; hiểu biết phong tục tập quán, pháp luật của Việt Nam và nước tiếp nhận lao động;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Đào tạo, nâng cao trình độ kỹ năng nghề để đáp ứng yêu cầu của nước tiếp nhận lao động;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Vay vốn với lãi suất ưu đãi."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Chính phủ quy định chi tiết chính sách hỗ trợ đưa người lao động đi làm việc ở nước ngoài theo hợp đồng quy định tại Điều này.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "21",
+                            "title": "Hỗ trợ tạo việc làm cho thanh niên",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Nhà nước khuyến khích tổ chức, cá nhân giải quyết việc làm cho thanh niên; tạo điều kiện cho thanh niên phát huy tính chủ động, sáng tạo trong tạo việc làm.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Nhà nước hỗ trợ tạo việc làm cho thanh niên thông qua các hoạt động sau đây:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Tư vấn, định hướng nghề nghiệp và giới thiệu việc làm miễn phí cho thanh niên;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Đào tạo nghề gắn với tạo việc làm cho thanh niên hoàn thành nghĩa vụ quân sự, nghĩa vụ công an, thanh niên tình nguyện hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Hỗ trợ thanh niên lập nghiệp, khởi sự doanh nghiệp."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Chính phủ quy định chi tiết điểm b và điểm c khoản 2 Điều này.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "22",
+                            "title": "Hỗ trợ phát triển thị trường lao động",
+                            "items": [
+                                {
+                                    "type": "text",
+                                    "content": "Nhà nước hỗ trợ phát triển thị trường lao động thông qua các hoạt động sau đây:"
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Thu thập, cung cấp thông tin thị trường lao động, phân tích, dự báo thị trường lao động, kết nối cung cầu lao động;",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Hiện đại hóa hoạt động dịch vụ việc làm và hệ thống thông tin thị trường lao động;",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Đầu tư nâng cao năng lực trung tâm dịch vụ việc làm;",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "4",
+                                    "content": "Khuyến khích tổ chức, cá nhân tham gia phát triển thị trường lao động.",
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "chapter",
+            "index": "3",
+            "title": "THÔNG TIN THỊ TRƯỜNG LAO ĐỘNG",
+            "articles": [
+                {
+                    "type": "article",
+                    "index": "23",
+                    "title": "Nội dung thông tin thị trường lao động",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Tình trạng, xu hướng việc làm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Thông tin về cung cầu lao động, biến động cung cầu lao động trên thị trường lao động.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Thông tin về lao động là công dân nước ngoài làm việc tại Việt Nam và người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "4",
+                            "content": "Thông tin về tiền lương, tiền công.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "24",
+                    "title": "Quản lý thông tin thị trường lao động",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Cơ quan quản lý nhà nước về thống kê tổ chức thu thập, công bố và xây dựng, quản lý cơ sở dữ liệu đối với thông tin thị trường lao động là chỉ tiêu thống kê quốc gia theo quy định của pháp luật về thống kê.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp với các bộ, cơ quan có liên quan chịu trách nhiệm thu thập và công bố các thông tin thị trường lao động thuộc ngành, lĩnh vực phụ trách ngoài các thông tin thị trường lao động thuộc hệ thống chỉ tiêu thống kê quốc gia; ban hành quy chế quản lý, khai thác, sử dụng và phổ biến thông tin thị trường lao động; xây dựng mạng thông tin và cơ sở dữ liệu thị trường lao động.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình quản lý thông tin thị trường lao động tại địa phương.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "4",
+                            "content": "Các cơ quan quy định tại các khoản 1, 2 và 3 Điều này có trách nhiệm định kỳ công bố thông tin thị trường lao động.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "25",
+                    "title": "Thu thập, lưu trữ, tổng hợp thông tin thị trường lao động",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Bộ Lao động - Thương binh và Xã hội tổ chức, hướng dẫn việc thu thập, lưu trữ, tổng hợp thông tin thị trường lao động thuộc thẩm quyền quy định tại khoản 2 Điều 24 của Luật này.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Ủy ban nhân dân các cấp tổ chức việc thu thập, lưu trữ, tổng hợp thông tin thị trường lao động trên địa bàn thuộc phạm vi quản lý.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Cơ quan, tổ chức, doanh nghiệp và cá nhân thu thập, lưu trữ, tổng hợp thông tin thị trường lao động theo quy định của pháp luật.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "26",
+                    "title": "Cung cấp thông tin thị trường lao động",
+                    "items": [
+                        {
+                            "type": "text",
+                            "content": "Cơ quan, tổ chức, doanh nghiệp và cá nhân có trách nhiệm cung cấp chính xác và kịp thời thông tin thị trường lao động theo quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "27",
+                    "title": "Phân tích, dự báo và phổ biến thông tin thị trường lao động",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Bộ Lao động - Thương binh và Xã hội chủ trì việc phân tích, dự báo và phổ biến thông tin thị trường lao động thuộc thẩm quyền.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Ủy ban nhân dân các cấp tổ chức việc phân tích, dự báo và phổ biến thông tin thị trường lao động trên địa bàn thuộc phạm vi quản lý.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "28",
+                    "title": "Bảo đảm an toàn, bảo mật và lưu trữ thông tin thị trường lao động",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Thông tin thị trường lao động trong quá trình xây dựng, vận hành, nâng cấp mạng thông tin và cơ sở dữ liệu thông tin thị trường lao động phải được bảo đảm an toàn.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Thông tin thị trường lao động phải được bảo mật bao gồm:",
+                            "subitems": [
+                                {
+                                    "index": "a",
+                                    "content": "Thông tin thị trường lao động gắn với tên, địa chỉ cụ thể của từng tổ chức, cá nhân, trừ trường hợp được tổ chức, cá nhân đó đồng ý cho công bố;"
+                                },
+                                {
+                                    "index": "b",
+                                    "content": "Thông tin thị trường lao động đang trong quá trình thu thập, tổng hợp, chưa được người có thẩm quyền công bố;"
+                                },
+                                {
+                                    "index": "c",
+                                    "content": "Thông tin thị trường lao động thuộc danh mục bí mật nhà nước theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Cơ quan, tổ chức, doanh nghiệp và cá nhân khai thác, sử dụng thông tin thị trường lao động có trách nhiệm bảo đảm an toàn, bảo mật và lưu trữ thông tin theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                            "subitems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "chapter",
+            "index": "4",
+            "title": "ĐÁNH GIÁ, CẤP CHỨNG CHỈ KỸ NĂNG NGHỀ QUỐC GIA",
+            "articles": [
+                {
+                    "type": "article",
+                    "index": "29",
+                    "title": "Mục đích đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia nhằm công nhận cấp độ kỹ năng nghề nghiệp theo trình độ của người lao động.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Người lao động được tham gia đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia để hoàn thiện năng lực nghề nghiệp của bản thân, tìm công việc phù hợp hoặc công việc yêu cầu phải có chứng chỉ kỹ năng nghề quốc gia.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "30",
+                    "title": "Nguyên tắc, nội dung đánh giá kỹ năng nghề quốc gia",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Việc đánh giá kỹ năng nghề quốc gia phải tuân thủ các nguyên tắc sau đây:",
+                            "subitems": [
+                                {
+                                    "index": "a",
+                                    "content": "Bảo đảm sự tự nguyện của người lao động;"
+                                },
+                                {
+                                    "index": "b",
+                                    "content": "Căn cứ vào tiêu chuẩn kỹ năng nghề quốc gia;"
+                                },
+                                {
+                                    "index": "c",
+                                    "content": "Theo từng bậc trình độ kỹ năng của từng nghề;"
+                                },
+                                {
+                                    "index": "d",
+                                    "content": "Chính xác, độc lập, khách quan, công bằng, minh bạch."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Nội dung đánh giá kỹ năng nghề quốc gia bao gồm:",
+                            "subitems": [
+                                {
+                                    "index": "a",
+                                    "content": "Kiến thức chuyên môn, kỹ thuật;"
+                                },
+                                {
+                                    "index": "b",
+                                    "content": "Kỹ năng thực hành công việc;"
+                                },
+                                {
+                                    "index": "c",
+                                    "content": "Quy trình an toàn lao động, vệ sinh lao động."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "31",
+                    "title": "Tổ chức đánh giá kỹ năng nghề",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Tổ chức đánh giá kỹ năng nghề là tổ chức hoạt động có điều kiện và được cơ quan nhà nước có thẩm quyền cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Tổ chức đánh giá kỹ năng nghề được cơ quan nhà nước có thẩm quyền cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia khi có đủ điều kiện về cơ sở vật chất, trang thiết bị, nhân lực.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Tổ chức đánh giá kỹ năng nghề được thu phí theo quy định của pháp luật về phí và lệ phí.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "4",
+                            "content": "Chính phủ quy định chi tiết điều kiện, tổ chức và hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "32",
+                    "title": "Xây dựng, công bố tiêu chuẩn kỹ năng nghề quốc gia",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Tiêu chuẩn kỹ năng nghề quốc gia được xây dựng theo từng bậc trình độ kỹ năng nghề cho mỗi nghề và khung trình độ kỹ năng nghề quốc gia. Số lượng bậc trình độ kỹ năng nghề phụ thuộc vào mức độ phức tạp của từng nghề.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ có trách nhiệm chủ trì xây dựng tiêu chuẩn kỹ năng nghề quốc gia cho từng nghề thuộc lĩnh vực quản lý và đề nghị Bộ Lao động - Thương binh và Xã hội thẩm định, công bố tiêu chuẩn kỹ năng nghề quốc gia.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Bộ Lao động - Thương binh và Xã hội hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "33",
+                    "title": "Chứng chỉ kỹ năng nghề quốc gia",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Người lao động đạt yêu cầu ở bậc trình độ kỹ năng nghề nào thì được cấp chứng chỉ kỹ năng nghề quốc gia ở bậc trình độ đó theo quy định của Bộ Lao động - Thương binh và Xã hội.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Chứng chỉ kỹ năng nghề quốc gia có giá trị trong phạm vi cả nước. Trường hợp có sự công nhận, thừa nhận lẫn nhau về chứng chỉ kỹ năng nghề quốc gia giữa Việt Nam với quốc gia, vùng lãnh thổ khác thì chứng chỉ kỹ năng nghề quốc gia có giá trị tại quốc gia, vùng lãnh thổ đã công nhận, thừa nhận và ngược lại.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "34",
+                    "title": "Quyền và trách nhiệm của người lao động tham gia đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Người lao động tham gia đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia có các quyền sau đây:",
+                            "subitems": [
+                                {
+                                    "index": "a",
+                                    "content": "Lựa chọn tổ chức đánh giá kỹ năng nghề;"
+                                },
+                                {
+                                    "index": "b",
+                                    "content": "Được cấp chứng chỉ kỹ năng nghề quốc gia khi đạt yêu cầu về trình độ kỹ năng nghề tương ứng;"
+                                },
+                                {
+                                    "index": "c",
+                                    "content": "Khiếu nại về kết quả đánh giá kỹ năng nghề quốc gia theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Người lao động tham gia đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia có trách nhiệm sau đây:",
+                            "subitems": [
+                                {
+                                    "index": "a",
+                                    "content": "Chấp hành nội quy, quy chế về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của tổ chức đánh giá kỹ năng nghề;"
+                                },
+                                {
+                                    "index": "b",
+                                    "content": "Nộp phí đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia theo quy định của pháp luật."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "35",
+                    "title": "Những công việc yêu cầu phải có chứng chỉ kỹ năng nghề quốc gia",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Người lao động làm công việc ảnh hưởng trực tiếp đến an toàn và sức khoẻ của cá nhân người lao động hoặc cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Chính phủ quy định danh mục công việc quy định tại khoản 1 Điều này.",
+                            "subitems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "chapter",
+            "index": "5",
+            "title": "TỔ CHỨC VÀ HOẠT ĐỘNG DỊCH VỤ VIỆC LÀM",
+            "articles": [
+                {
+                    "type": "article",
+                    "index": "36",
+                    "title": "Dịch vụ việc làm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Dịch vụ việc làm bao gồm: tư vấn, giới thiệu việc làm; cung ứng và tuyển lao động theo yêu cầu của người sử dụng lao động; thu thập, cung cấp thông tin về thị trường lao động.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Tổ chức dịch vụ việc làm bao gồm trung tâm dịch vụ việc làm và doanh nghiệp hoạt động dịch vụ việc làm.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "37",
+                    "title": "Trung tâm dịch vụ việc làm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Trung tâm dịch vụ việc làm là đơn vị sự nghiệp công lập, bao gồm:",
+                            "subitems": [
+                                {
+                                    "index": "a",
+                                    "content": "Trung tâm dịch vụ việc làm do cơ quan quản lý nhà nước thành lập;"
+                                },
+                                {
+                                    "index": "b",
+                                    "content": "Trung tâm dịch vụ việc làm do tổ chức chính trị - xã hội thành lập."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Trung tâm dịch vụ việc làm được thành lập phải phù hợp với quy hoạch do Thủ tướng Chính phủ phê duyệt và có đủ điều kiện về cơ sở vật chất, trang thiết bị, nhân lực theo quy định. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) quyết định thành lập trung tâm dịch vụ việc làm quy định tại điểm a khoản 1 Điều này; người đứng đầu tổ chức chính trị - xã hội cấp trung ương quyết định thành lập trung tâm dịch vụ việc làm quy định tại điểm b khoản 1 Điều này.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Chính phủ quy định chi tiết điều kiện thành lập, tổ chức và hoạt động của trung tâm dịch vụ việc làm.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "38",
+                    "title": "Nhiệm vụ của trung tâm dịch vụ việc làm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Trung tâm dịch vụ việc làm có các nhiệm vụ sau đây:",
+                            "subitems": [
+                                {
+                                    "index": "a",
+                                    "content": "Tư vấn, giới thiệu việc làm cho người lao động và cung cấp thông tin thị trường lao động miễn phí;"
+                                },
+                                {
+                                    "index": "b",
+                                    "content": "Cung ứng và tuyển lao động theo yêu cầu của người sử dụng lao động;"
+                                },
+                                {
+                                    "index": "c",
+                                    "content": "Thu thập thông tin thị trường lao động;"
+                                },
+                                {
+                                    "index": "d",
+                                    "content": "Phân tích và dự báo thị trường lao động;"
+                                },
+                                {
+                                    "index": "đ",
+                                    "content": "Thực hiện các chương trình, dự án về việc làm;"
+                                },
+                                {
+                                    "index": "e",
+                                    "content": "Đào tạo kỹ năng, dạy nghề theo quy định của pháp luật;"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Trung tâm dịch vụ việc làm do cơ quan quản lý nhà nước về việc làm thành lập thực hiện các nhiệm vụ theo quy định tại khoản 1 Điều này và thực hiện việc tiếp nhận hồ sơ hưởng bảo hiểm thất nghiệp để trình cơ quan nhà nước có thẩm quyền quyết định.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "39",
+                    "title": "Doanh nghiệp hoạt động dịch vụ việc làm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Doanh nghiệp hoạt động dịch vụ việc làm là doanh nghiệp được thành lập và hoạt động theo quy định của pháp luật về doanh nghiệp và phải có giấy phép hoạt động dịch vụ việc làm do cơ quan quản lý nhà nước về việc làm cấp tỉnh cấp.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Doanh nghiệp được cấp giấy phép hoạt động dịch vụ việc làm khi có đủ điều kiện về cơ sở vật chất, trang thiết bị, nhân lực và tiền ký quỹ.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Doanh nghiệp hoạt động dịch vụ việc làm được thành lập chi nhánh hoạt động dịch vụ việc làm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "4",
+                            "content": "Doanh nghiệp hoạt động dịch vụ việc làm được thu phí theo quy định của pháp luật về phí, lệ phí.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "5",
+                            "content": "Chính phủ quy định chi tiết Điều này.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "40",
+                    "title": "Hoạt động của doanh nghiệp hoạt động dịch vụ việc làm",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Tư vấn, giới thiệu việc làm cho người lao động, người sử dụng lao động.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Cung ứng và tuyển lao động theo yêu cầu của người sử dụng lao động.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Thu thập và cung cấp thông tin thị trường lao động.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "4",
+                            "content": "Phân tích và dự báo thị trường lao động.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "5",
+                            "content": "Đào tạo kỹ năng, dạy nghề theo quy định của pháp luật.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "6",
+                            "content": "Thực hiện các chương trình, dự án về việc làm.",
+                            "subitems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "chapter",
+            "index": "6",
+            "title": "BẢO HIỂM THẤT NGHIỆP",
+            "sections": [
+                {
+                    "type": "section",
+                    "index": "1",
+                    "title": "NGUYÊN TẮC, ĐỐI TƯỢNG, CHẾ ĐỘ BẢO HIỂM THẤT NGHIỆP",
+                    "articles": [
+                        {
+                            "type": "article",
+                            "index": "41",
+                            "title": "Nguyên tắc bảo hiểm thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Bảo đảm chia sẻ rủi ro giữa những người tham gia bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Mức đóng bảo hiểm thất nghiệp được tính trên cơ sở tiền lương của người lao động.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Mức hưởng bảo hiểm thất nghiệp được tính trên cơ sở mức đóng, thời gian đóng bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "4",
+                                    "content": "Việc thực hiện bảo hiểm thất nghiệp phải đơn giản, dễ dàng, thuận tiện, bảo đảm kịp thời và đầy đủ quyền lợi của người tham gia.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "5",
+                                    "content": "Quỹ bảo hiểm thất nghiệp được quản lý tập trung, thống nhất, công khai, minh bạch, bảo đảm an toàn và được Nhà nước bảo hộ.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "42",
+                            "title": "Các chế độ bảo hiểm thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Trợ cấp thất nghiệp.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Hỗ trợ tư vấn, giới thiệu việc làm.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Hỗ trợ Học nghề.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "4",
+                                    "content": "Hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "43",
+                            "title": "Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Người lao động phải tham gia bảo hiểm thất nghiệp khi làm việc theo hợp đồng lao động hoặc hợp đồng làm việc như sau:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Hợp đồng lao động hoặc hợp đồng làm việc không xác định thời hạn;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Hợp đồng lao động hoặc hợp đồng làm việc xác định thời hạn;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn từ đủ 03 tháng đến dưới 12 tháng. Trong trường hợp người lao động giao kết và đang thực hiện nhiều hợp đồng lao động quy định tại khoản này thì người lao động và người sử dụng lao động của hợp đồng lao động giao kết đầu tiên có trách nhiệm tham gia bảo hiểm thất nghiệp."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Người lao động theo quy định tại khoản 1 Điều này đang hưởng lương hưu, giúp việc gia đình thì không phải tham gia bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Người sử dụng lao động tham gia bảo hiểm thất nghiệp bao gồm cơ quan nhà nước, đơn vị sự nghiệp công lập, đơn vị vũ trang nhân dân; tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp; cơ quan, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ Việt Nam; doanh nghiệp, hợp tác xã, hộ gia đình, hộ kinh doanh, tổ hợp tác, tổ chức khác và cá nhân có thuê mướn, sử dụng lao động theo hợp đồng làm việc hoặc hợp đồng lao động quy định tại khoản 1 Điều này.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "44",
+                            "title": "Tham gia bảo hiểm thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Người sử dụng lao động phải tham gia bảo hiểm thất nghiệp cho người lao động tại tổ chức bảo hiểm xã hội trong thời hạn 30 ngày, kể từ ngày hợp đồng lao động hoặc hợp đồng làm việc có hiệu lực.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Hằng tháng, người sử dụng lao động đóng bảo hiểm thất nghiệp theo mức quy định tại điểm b khoản 1 Điều 57 của Luật này và trích tiền lương của từng người lao động theo mức quy định tại điểm a khoản 1 Điều 57 của Luật này để đóng cùng một lúc vào Quỹ bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Căn cứ vào tình hình kết dư của Quỹ bảo hiểm thất nghiệp, Nhà nước chuyển kinh phí hỗ trợ từ ngân sách nhà nước vào Quỹ theo mức do Chính phủ quy định tại khoản 3 Điều 59 của Luật này.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "45",
+                            "title": "Thời gian đóng bảo hiểm thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Thời gian đóng bảo hiểm thất nghiệp để xét hưởng bảo hiểm thất nghiệp là tổng các khoảng thời gian đã đóng bảo hiểm thất nghiệp liên tục hoặc không liên tục được cộng dồn từ khi bắt đầu đóng bảo hiểm thất nghiệp cho đến khi người lao động chấm dứt hợp đồng lao động hoặc hợp đồng làm việc theo quy định của pháp luật mà chưa hưởng trợ cấp thất nghiệp.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Sau khi chấm dứt hưởng trợ cấp thất nghiệp, thời gian đóng bảo hiểm thất nghiệp trước đó của người lao động không được tính để hưởng trợ cấp thất nghiệp cho lần tiếp theo. Thời gian đóng bảo hiểm thất nghiệp cho lần hưởng bảo hiểm thất nghiệp tiếp theo được tính lại từ đầu, trừ trường hợp chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại các điểm b, c, h, l, m và n khoản 3 Điều 53 của Luật này.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Thời gian người lao động đóng bảo hiểm thất nghiệp không được tính để hưởng trợ cấp mất việc làm hoặc trợ cấp thôi việc theo quy định của pháp luật về lao động, pháp luật về viên chức.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "46",
+                            "title": "Hưởng trợ cấp thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Trong thời hạn 03 tháng, kể từ ngày chấm dứt hợp đồng lao động hoặc hợp đồng làm việc, người lao động nộp hồ sơ hưởng trợ cấp thất nghiệp tại trung tâm dịch vụ việc làm do cơ quan quản lý nhà nước về việc làm thành lập.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Trong thời hạn 20 ngày, kể từ ngày trung tâm dịch vụ việc làm tiếp nhận đủ hồ sơ, cơ quan nhà nước có thẩm quyền ra quyết định hưởng trợ cấp thất nghiệp; trường hợp không đủ điều kiện để hưởng chế độ trợ cấp thất nghiệp thì phải trả lời bằng văn bản cho người lao động.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Tổ chức bảo hiểm xã hội thực hiện việc chi trả trợ cấp thất nghiệp cho người lao động trong thời hạn 05 ngày, kể từ ngày nhận được quyết định hưởng trợ cấp thất nghiệp.",
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "index": "2",
+                    "title": "HỖ TRỢ ĐÀO TẠO, BỒI DƯỠNG, NÂNG CAO TRÌNH ĐỘ KỸ NĂNG NGHỀ ĐỂ DUY TRÌ VIỆC LÀM CHO NGƯỜI LAO ĐỘNG",
+                    "articles": [
+                        {
+                            "type": "article",
+                            "index": "47",
+                            "title": "Điều kiện, thời gian và mức hỗ trợ",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Người sử dụng lao động được hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp khi có đủ các điều kiện sau đây:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Đóng đủ bảo hiểm thất nghiệp cho người lao động thuộc đối tượng tham gia bảo hiểm thất nghiệp liên tục từ đủ 12 tháng trở lên tính đến thời điểm đề nghị hỗ trợ;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Gặp khó khăn do suy giảm kinh tế hoặc vì lý do bất khả kháng khác buộc phải thay đổi cơ cấu hoặc công nghệ sản xuất, kinh doanh;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Không đủ kinh phí để tổ chức đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề cho người lao động;"
+                                        },
+                                        {
+                                            "index": "d",
+                                            "content": "Có phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và duy trì việc làm được cơ quan nhà nước có thẩm quyền phê duyệt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Thời gian hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo phương án được phê duyệt và không quá 06 tháng.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Chính phủ quy định chi tiết Điều này và mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động, bảo đảm cân đối quỹ bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "48",
+                            "title": "Trách nhiệm đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Người sử dụng lao động có trách nhiệm tổ chức đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và sử dụng lao động theo phương án đã được phê duyệt; sử dụng nguồn kinh phí đúng đối tượng, đúng mục đích và thực hiện báo cáo kết quả tổ chức đào tạo cho cơ quan nhà nước có thẩm quyền sau khi kết thúc khóa đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Người lao động có trách nhiệm thực hiện quy định của pháp luật về đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề.",
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "index": "3",
+                    "title": "TRỢ CẤP THẤT NGHIỆP",
+                    "articles": [
+                        {
+                            "type": "article",
+                            "index": "49",
+                            "title": "Điều kiện hưởng",
+                            "items": [
+                                {
+                                    "type": "text",
+                                    "content": "Người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp được hưởng trợ cấp thất nghiệp khi có đủ các điều kiện sau đây:"
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Chấm dứt hợp đồng lao động hoặc hợp đồng làm việc, trừ các trường hợp sau đây:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Người lao động đơn phương chấm dứt hợp đồng lao động, hợp đồng làm việc trái pháp luật;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Hưởng lương hưu, trợ cấp mất sức lao động hằng tháng;"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Đã đóng bảo hiểm thất nghiệp từ đủ 12 tháng trở lên trong thời gian 24 tháng trước khi chấm dứt hợp đồng lao động hoặc hợp đồng làm việc đối với trường hợp quy định tại điểm a và điểm b khoản 1 Điều 43 của Luật này; đã đóng bảo hiểm thất nghiệp từ đủ 12 tháng trở lên trong thời gian 36 tháng trước khi chấm dứt hợp đồng lao động đối với trường hợp quy định tại điểm c khoản 1 Điều 43 của Luật này;",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Đã nộp hồ sơ hưởng trợ cấp thất nghiệp tại trung tâm dịch vụ việc làm theo quy định tại khoản 1 Điều 46 của Luật này;",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "4",
+                                    "content": "Chưa tìm được việc làm sau 15 ngày, kể từ ngày nộp hồ sơ hưởng bảo hiểm thất nghiệp, trừ các trường hợp sau đây:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Thực hiện nghĩa vụ quân sự, nghĩa vụ công an;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Đi học tập có thời hạn từ đủ 12 tháng trở lên;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Chấp hành quyết định áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc;"
+                                        },
+                                        {
+                                            "index": "d",
+                                            "content": "Bị tạm giam; chấp hành hình phạt tù;"
+                                        },
+                                        {
+                                            "index": "đ",
+                                            "content": "Ra nước ngoài định cư; đi lao động ở nước ngoài theo hợp đồng;"
+                                        },
+                                        {
+                                            "index": "e",
+                                            "content": "Chết."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "50",
+                            "title": "Mức, thời gian, thời điểm hưởng trợ cấp thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Mức hưởng trợ cấp thất nghiệp hằng tháng bằng 60% mức bình quân tiền lương tháng đóng bảo hiểm thất nghiệp của 06 tháng liền kề trước khi thất nghiệp nhưng tối đa không quá 05 lần mức lương cơ sở đối với người lao động thuộc đối tượng thực hiện chế độ tiền lương do Nhà nước quy định hoặc không quá 05 lần mức lương tối thiểu vùng theo quy định của Bộ luật lao động đối với người lao động đóng bảo hiểm thất nghiệp theo chế độ tiền lương do người sử dụng lao động quyết định tại thời điểm chấm dứt hợp đồng lao động hoặc hợp đồng làm việc.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Thời gian hưởng trợ cấp thất nghiệp được tính theo số tháng đóng bảo hiểm thất nghiệp, cứ đóng đủ 12 tháng đến đủ 36 tháng thì được hưởng 03 tháng trợ cấp thất nghiệp, sau đó, cứ đóng đủ thêm 12 tháng thì được hưởng thêm 01 tháng trợ cấp thất nghiệp nhưng tối đa không quá 12 tháng.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Thời điểm hưởng trợ cấp thất nghiệp được tính từ ngày thứ 16, kể từ ngày nộp đủ hồ sơ hưởng trợ cấp thất nghiệp theo quy định tại khoản 1 Điều 46 của Luật này.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "51",
+                            "title": "Bảo hiểm y tế",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Người đang hưởng trợ cấp thất nghiệp được hưởng chế độ bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Tổ chức bảo hiểm xã hội đóng bảo hiểm y tế cho người đang hưởng trợ cấp thất nghiệp từ Quỹ bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "52",
+                            "title": "Thông báo về việc tìm kiếm việc làm",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Trong thời gian hưởng trợ cấp thất nghiệp, hằng tháng người lao động phải trực tiếp thông báo với trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp về việc tìm kiếm việc làm, trừ các trường hợp sau đây:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Người lao động ốm đau, thai sản, tai nạn có giấy xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của pháp luật về khám bệnh, chữa bệnh;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Trường hợp bất khả kháng."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Đối với trường hợp quy định tại điểm a và điểm b khoản 1 Điều này thì người lao động có trách nhiệm thông báo cho trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện Điều này.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "53",
+                            "title": "Tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Người đang hưởng trợ cấp thất nghiệp bị tạm dừng hưởng trợ cấp thất nghiệp khi không thông báo về việc tìm kiếm việc làm hằng tháng theo quy định tại Điều 52 của Luật này.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Người lao động bị tạm dừng hưởng trợ cấp thất nghiệp nếu vẫn còn thời gian được hưởng theo quyết định thì tiếp tục hưởng trợ cấp thất nghiệp khi thực hiện thông báo về việc tìm kiếm việc làm hằng tháng theo quy định tại Điều 52 của Luật này.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp trong các trường hợp sau đây:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Hết thời hạn hưởng trợ cấp thất nghiệp;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Tìm được việc làm;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Thực hiện nghĩa vụ quân sự, nghĩa vụ công an;"
+                                        },
+                                        {
+                                            "index": "d",
+                                            "content": "Hưởng lương hưu hằng tháng;"
+                                        },
+                                        {
+                                            "index": "đ",
+                                            "content": "Sau 02 lần từ chối nhận việc làm do trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp giới thiệu mà không có lý do chính đáng;"
+                                        },
+                                        {
+                                            "index": "e",
+                                            "content": "Không thực hiện thông báo tìm kiếm việc làm hằng tháng theo quy định tại Điều 52 của Luật này trong 03 tháng liên tục;"
+                                        },
+                                        {
+                                            "index": "g",
+                                            "content": "Ra nước ngoài để định cư, đi lao động ở nước ngoài theo hợp đồng;"
+                                        },
+                                        {
+                                            "index": "h",
+                                            "content": "Đi học tập có thời hạn từ đủ 12 tháng trở lên;"
+                                        },
+                                        {
+                                            "index": "i",
+                                            "content": "Bị xử phạt vi phạm hành chính về hành vi vi phạm pháp luật bảo hiểm thất nghiệp;"
+                                        },
+                                        {
+                                            "index": "k",
+                                            "content": "Chết;"
+                                        },
+                                        {
+                                            "index": "l",
+                                            "content": "Chấp hành quyết định áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc;"
+                                        },
+                                        {
+                                            "index": "m",
+                                            "content": "Bị tòa án tuyên bố mất tích;"
+                                        },
+                                        {
+                                            "index": "n",
+                                            "content": "Bị tạm giam; chấp hành hình phạt tù."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "4",
+                                    "content": "Người lao động bị chấm dứt hưởng trợ cấp thất nghiệp thuộc các trường hợp quy định tại các điểm b, c, h, l, m và n khoản 3 Điều này được bảo lưu thời gian đóng bảo hiểm thất nghiệp làm căn cứ để tính thời gian hưởng trợ cấp thất nghiệp cho lần tiếp theo khi đủ điều kiện quy định tại Điều 49 của Luật này. Thời gian bảo lưu được tính bằng tổng thời gian đóng bảo hiểm thất nghiệp trừ đi thời gian đóng đã hưởng trợ cấp thất nghiệp, theo nguyên tắc mỗi tháng đã hưởng trợ cấp thất nghiệp tương ứng 12 tháng đã đóng bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "index": "4",
+                    "title": "HỖ TRỢ TƯ VẤN, GIỚI THIỆU VIỆC LÀM, HỌC NGHỀ",
+                    "articles": [
+                        {
+                            "type": "article",
+                            "index": "54",
+                            "title": "Tư vấn, giới thiệu việc làm",
+                            "items": [
+                                {
+                                    "type": "text",
+                                    "content": "Người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp bị chấm dứt hợp đồng lao động hoặc hợp đồng làm việc mà có nhu cầu tìm kiếm việc làm được tư vấn, giới thiệu việc làm miễn phí."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "55",
+                            "title": "Điều kiện được hỗ trợ học nghề",
+                            "items": [
+                                {
+                                    "type": "text",
+                                    "content": "Người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp được hỗ trợ học nghề khi có đủ các điều kiện sau đây:"
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Đủ các điều kiện quy định tại các khoản 1, 3 và 4 Điều 49 của Luật này;",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Đã đóng bảo hiểm thất nghiệp từ đủ 09 tháng trở lên trong thời gian 24 tháng trước khi chấm dứt hợp đồng lao động hoặc hợp đồng làm việc theo quy định của pháp luật.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "56",
+                            "title": "Thời gian, mức hỗ trợ học nghề",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Thời gian hỗ trợ học nghề theo thời gian học nghề thực tế nhưng không quá 06 tháng.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Mức hỗ trợ học nghề theo quy định của Thủ tướng Chính phủ.",
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "index": "5",
+                    "title": "QUỸ BẢO HIỂM THẤT NGHIỆP",
+                    "articles": [
+                        {
+                            "type": "article",
+                            "index": "57",
+                            "title": "Mức đóng, nguồn hình thành và sử dụng Quỹ bảo hiểm thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Mức đóng và trách nhiệm đóng bảo hiểm thất nghiệp được quy định như sau:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Người lao động đóng bằng 1% tiền lương tháng;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Người sử dụng lao động đóng bằng 1% quỹ tiền lương tháng của những người lao động đang tham gia bảo hiểm thất nghiệp;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Nhà nước hỗ trợ tối đa 1% quỹ tiền lương tháng đóng bảo hiểm thất nghiệp của những người lao động đang tham gia bảo hiểm thất nghiệp và do ngân sách trung ương bảo đảm."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Nguồn hình thành Quỹ bảo hiểm thất nghiệp bao gồm:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Các khoản đóng và hỗ trợ theo quy định tại khoản 1 Điều này;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Tiền sinh lời của hoạt động đầu tư từ quỹ;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Nguồn thu hợp pháp khác."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Quỹ bảo hiểm thất nghiệp được sử dụng như sau:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Chi trả trợ cấp thất nghiệp;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Hỗ trợ học nghề;"
+                                        },
+                                        {
+                                            "index": "d",
+                                            "content": "Hỗ trợ tư vấn, giới thiệu việc làm;"
+                                        },
+                                        {
+                                            "index": "đ",
+                                            "content": "Đóng bảo hiểm y tế cho người hưởng trợ cấp thất nghiệp;"
+                                        },
+                                        {
+                                            "index": "e",
+                                            "content": "Chi phí quản lý bảo hiểm thất nghiệp thực hiện theo quy định của Luật bảo hiểm xã hội;"
+                                        },
+                                        {
+                                            "index": "g",
+                                            "content": "Đầu tư để bảo toàn và tăng trưởng Quỹ."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "58",
+                            "title": "Tiền lương làm căn cứ đóng bảo hiểm thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Người lao động thuộc đối tượng thực hiện chế độ tiền lương do Nhà nước quy định thì tiền lương tháng đóng bảo hiểm thất nghiệp là tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc thực hiện theo quy định của Luật bảo hiểm xã hội. Trường hợp mức tiền lương tháng đóng bảo hiểm thất nghiệp cao hơn hai mươi tháng lương cơ sở thì mức tiền lương tháng đóng bảo hiểm thất nghiệp bằng hai mươi tháng lương cơ sở tại thời điểm đóng bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Người lao động đóng bảo hiểm thất nghiệp theo chế độ tiền lương do người sử dụng lao động quyết định thì tiền lương tháng đóng bảo hiểm thất nghiệp là tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc thực hiện theo quy định của Luật bảo hiểm xã hội. Trường hợp mức tiền lương tháng đóng bảo hiểm thất nghiệp cao hơn hai mươi tháng lương tối thiểu vùng thì mức tiền lương tháng đóng bảo hiểm thất nghiệp bằng hai mươi tháng lương tối thiểu vùng theo quy định của Bộ luật lao động tại thời điểm đóng bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "article",
+                            "index": "59",
+                            "title": "Quản lý Quỹ bảo hiểm thất nghiệp",
+                            "items": [
+                                {
+                                    "type": "item",
+                                    "index": "1",
+                                    "content": "Quỹ bảo hiểm thất nghiệp được hạch toán độc lập. Tổ chức bảo hiểm xã hội thực hiện việc thu, chi, quản lý và sử dụng Quỹ bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "2",
+                                    "content": "Hoạt động đầu tư từ Quỹ bảo hiểm thất nghiệp phải bảo đảm an toàn, minh bạch, hiệu quả và thu hồi được khi cần thiết, thông qua các hình thức sau:",
+                                    "subitems": [
+                                        {
+                                            "index": "a",
+                                            "content": "Mua trái phiếu, tín phiếu, công trái của Nhà nước; trái phiếu của ngân hàng thương mại do Nhà nước sở hữu trên 50% vốn điều lệ;"
+                                        },
+                                        {
+                                            "index": "b",
+                                            "content": "Đầu tư vào các dự án quan trọng theo quyết định của Thủ tướng Chính phủ;"
+                                        },
+                                        {
+                                            "index": "c",
+                                            "content": "Cho ngân sách nhà nước, Ngân hàng phát triển Việt Nam, Ngân hàng Chính sách xã hội, ngân hàng thương mại do Nhà nước sở hữu trên 50% vốn điều lệ vay."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "item",
+                                    "index": "3",
+                                    "content": "Chính phủ quy định chi tiết tỷ lệ hỗ trợ từ ngân sách nhà nước; việc quản lý, sử dụng Quỹ; tổ chức thực hiện bảo hiểm thất nghiệp.",
+                                    "subitems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "chapter",
+            "index": "7",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "articles": [
+                {
+                    "type": "article",
+                    "index": "60",
+                    "title": "Điều khoản chuyển tiếp",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Doanh nghiệp được cấp Giấy phép hoạt động giới thiệu việc làm trước ngày Luật này có hiệu lực thi hành thì được tiếp tục hoạt động dịch vụ việc làm cho đến hết thời hạn của giấy phép đã được cấp.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Trung tâm giới thiệu việc làm được thành lập trước ngày Luật này có hiệu lực thi hành tiếp tục hoạt động dịch vụ việc làm thì đổi tên thành Trung tâm dịch vụ việc làm.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "3",
+                            "content": "Tổ chức đánh giá kỹ năng nghề đã được cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia trước ngày Luật này có hiệu lực thi hành thì tiếp tục hoạt động cho đến hết thời hạn của giấy chứng nhận đã được cấp.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "4",
+                            "content": "Thời gian người lao động đã đóng bảo hiểm thất nghiệp theo quy định cửa Luật bảo hiểm xã hội trước ngày Luật này có hiệu lực thi hành mà chưa hưởng trợ cấp thất nghiệp được cộng để tính thời gian đã đóng bảo hiểm thất nghiệp theo quy định tại Điều 45 của Luật này.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "61",
+                    "title": "Hiệu lực thi hành",
+                    "items": [
+                        {
+                            "type": "item",
+                            "index": "1",
+                            "content": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2015.",
+                            "subitems": []
+                        },
+                        {
+                            "type": "item",
+                            "index": "2",
+                            "content": "Các quy định về bảo hiểm thất nghiệp của Luật bảo hiểm xã hội số 71/2006/QH11; Chương IX - Đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Luật dạy nghề số 76/2006/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                            "subitems": []
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "index": "62",
+                    "title": "Quy định chi tiết và hướng dẫn thi hành",
+                    "items": [
+                        {
+                            "type": "text",
+                            "content": "Chính phủ, cơ quan nhà nước có thẩm quyền khác quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật."
+                        },
+                        {
+                            "type": "text",
+                            "content": "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 6 thông qua ngày 16 tháng 11 năm 2013."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
