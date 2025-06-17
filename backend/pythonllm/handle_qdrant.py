@@ -48,9 +48,9 @@ def initialize_qdrant_collection(client: QdrantClient, collection_name: str, vec
         try:
             corpus_embeddings_1 = torch.load(os.path.join(BACKEND_ROOT, "embedding/corpus_embeddings_v1.pt"), weights_only=False)
             corpus_embeddings_2 = torch.load(os.path.join(BACKEND_ROOT, "embedding/corpus_embeddings_v2.pt"), weights_only=False)
-            with open(os.path.join(BACKEND_ROOT, "dataset/all_docs.json"), "r", encoding="utf-8") as f:
+            with open(os.path.join(BACKEND_ROOT, "data/all_docs.json"), "r", encoding="utf-8") as f:
                 all_docs = json.load(f)
-            with open(os.path.join(BACKEND_ROOT, "dataset/all_doc_metas.json"), 'r', encoding='utf-8') as f:
+            with open(os.path.join(BACKEND_ROOT, "data/all_doc_metas.json"), 'r', encoding='utf-8') as f:
                 all_doc_metas = json.load(f)
             batch_size = 1000
             points = [

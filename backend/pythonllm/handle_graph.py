@@ -62,8 +62,8 @@ fusion_retriever = FusionRetriever(
     vector_name_2=VECTOR_NAME_2
 )
 index_retriever = LawIndexRetriever(
-    doc_path=os.path.join(BACKEND_ROOT, "dataset/all_docs.json"),
-    meta_path=os.path.join(BACKEND_ROOT, "dataset/all_doc_metas.json")
+    doc_path=os.path.join(BACKEND_ROOT, "data/all_docs.json"),
+    meta_path=os.path.join(BACKEND_ROOT, "data/all_doc_metas.json")
 )
 init_question = "Tội trộm cắp tài sản dưới 2 triệu đồng bị xử lý như thế nào?"
 # Retrieval
